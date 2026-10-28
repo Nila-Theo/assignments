@@ -1,0 +1,1 @@
+I asked Gemini to list me clear steps of how to create this assignment. sometimes I had to make its instructions clearer or more detailed.
