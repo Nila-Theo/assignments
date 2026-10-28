@@ -1,5 +1,6 @@
 In this assignment I made a repository for a personal website with my achievements and goals.
 in the website I included a jekyll template and additional assets: my potograph and headlines colors.
+The code of the website is found in "Nila-Theo.github.io" repository (link:https://github.com/Nila-Theo/Nila-Theo.github.io.git)
 
 link to website: https://nila-theo.github.io/
 
