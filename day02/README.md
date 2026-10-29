@@ -11,6 +11,7 @@ Prompts used:
 * how am i suppose to do step 2 without step 3 before that
 * include clear steps to how to install python and vs code in your steps
 * i had to install the python install manager through microsoft store. it opened this window, change your steps in accordance:
+![Day 02 Screenshot](imageDAY02.png)
 * how do i open a fresh terminal or command prompt window? add to the steps in the python installment
 * in step 4.2 if i want a folder other then documents what do i write?
 * make more detaild steps in 3c
