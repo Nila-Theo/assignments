@@ -5,7 +5,7 @@ This script computes the theoretical interplanar spacings ($d$-spacings) and Bra
 
 ## Prompts used:
 
-### Ask gemini in chrome:
+### Ask gemini with the shared tab of the course's repository in chrome:
 * suggest fitting computations fiting for assignment 3
 * generate data for the Bragg code
 * how do i open a terminal in visual studio code
@@ -14,6 +14,8 @@ This script computes the theoretical interplanar spacings ($d$-spacings) and Bra
 * how do i test the code is working? (DIDNT WORK)
 * this is what i got
 ![Day 03 Screenshot](DAY03.png)
+* what does this code do?
+* write this for the readme file as explenation
 
 ### chat copilot in VSC:
 * check if diffraction_data.csv can be read in Bragg code
