@@ -1,7 +1,7 @@
 # Day 3 Assignment: Powder X-Ray Diffraction (p-XRD) Bragg Peak Calculator
 
 ## Overview
-This script computes the theoretical interplanar spacings ($d$-spacings) and Bragg diffraction angles ($2\theta$) for a cubic crystal lattice and compares them against experimental diffraction data loaded from a CSV file.
+This script computes the theoretical interplanar spacings ($d$-spacings) and Bragg diffraction angles ($2\theta$) for a cubic crystal lattice with a known lattice parametes (a= 4$ Å) and compares them against experimental diffraction data loaded from a CSV file.
 
 ## Files Included
 * **`Bragg.py`**: The core Python script containing functions to parse the dataset, compute crystallographic parameters via Bragg's Law, and output a formatted comparison table.
