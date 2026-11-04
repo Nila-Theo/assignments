@@ -13,7 +13,7 @@ This script computes the theoretical interplanar spacings ($d$-spacings) and Bra
 * in the code you gave me, do i need to write the specific name of the csv file that needs to be imported if it’s in the same folder??
 * how do i test the code is working? (DIDNT WORK)
 * this is what i got
-![Day 03 Screenshot](imageDAY03.png)
+![Day 03 Screenshot](DAY03.png)
 
 ### chat copilot in VSC:
 * check if diffraction_data.csv can be read in Bragg code
