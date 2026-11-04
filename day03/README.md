@@ -18,7 +18,7 @@ This script computes the theoretical interplanar spacings ($d$-spacings) and Bra
 * write this for the readme file as explenation
 
 ### chat copilot in VSC:
-* check if diffraction_data.csv can be read in Bragg code
+* check if diffraction_data.csv can be read in Bragg code (WORKED IMMEDIATLY)
 
 
 ## Files Included
