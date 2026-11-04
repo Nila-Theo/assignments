@@ -1,4 +1,4 @@
-# Day 3 Assignment: Powder X-Ray Diffraction (PXRD) Bragg Peak Calculator
+# Day 3 Assignment: Powder X-Ray Diffraction (p-XRD) Bragg Peak Calculator
 
 ## Overview
 This script computes the theoretical interplanar spacings ($d$-spacings) and Bragg diffraction angles ($2\theta$) for a cubic crystal lattice and compares them against experimental diffraction data loaded from a CSV file.
@@ -11,7 +11,7 @@ This script computes the theoretical interplanar spacings ($d$-spacings) and Bra
 1. **Interplanar Spacing ($d$):** Calculates the $d$-spacing for a cubic crystal system given lattice parameter $a$:
    $$d = \frac{a}{\sqrt{h^2 + k^2 + l^2}}$$
 
-2. **Bragg's Law & Detector Angles ($2\theta$):** Computes the theoretical diffraction peak positions using copper $K\alpha$ radiation wavelength ($\lambda = 1.5406\text{ \AA}$):
+22. **Bragg's Law & Detector Angles ($2\theta$):** Computes the theoretical diffraction peak positions using copper $K\alpha$ radiation wavelength ($\lambda = 1.5406$ Å): 
    $$\sin\theta = \frac{\lambda}{2d}$$
    $$2\theta_{\text{calc}} = 2 \times \arcsin(\sin\theta)$$
 
