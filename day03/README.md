@@ -3,6 +3,22 @@
 ## Overview
 This script computes the theoretical interplanar spacings ($d$-spacings) and Bragg diffraction angles ($2\theta$) for a cubic crystal lattice with a known lattice parametes (a= 4 Å) and compares them against experimental diffraction data loaded from a CSV file.
 
+## Prompts used:
+
+### Ask gemini in chrome:
+* suggest fitting computations fiting for assignment 3
+* generate data for the Bragg code
+* how do i open a terminal in visual studio code
+* how do i run th py code?
+* in the code you gave me, do i need to write the specific name of the csv file that needs to be imported if it’s in the same folder??
+* how do i test the code is working? (DIDNT WORK)
+* this is what i got
+![Day 03 Screenshot](imageDAY03.png)
+
+### chat copilot in VSC:
+* check if diffraction_data.csv can be read in Bragg code
+
+
 ## Files Included
 * **`Bragg.py`**: The core Python script containing functions to parse the dataset, compute crystallographic parameters via Bragg's Law, and output a formatted comparison table.
 * **`diffraction_data.csv`**: A structured comma-separated data file containing Miller indices ($h, k, l$) and experimental $2\theta$ diffraction angles.
