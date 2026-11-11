@@ -14,9 +14,8 @@ I wrapped my previous crystallographic calculation project (`Bragg.py`) into an 
 
 ## How to Run the Application
 
-1. Open your terminal and navigate to the `day04` folder:
-   ```bash
-   cd day04
+1. Open your integrated terminal in day04 folder
+2. run pyhton app.py
 
 ## AI prompts:
 Ask gemini:
