@@ -22,10 +22,10 @@ I wrapped my previous crystallographic calculation project (`Bragg.py`) into an 
 Ask gemini:
 * show steps and codes for assignment day 4. my code from the previous project is called "Bragg.py" and my csv file with the data is called "diffraction_data.csv"
 * this is my bragg.py code: (INSERTED COPIED CODE)
-* there's a problem in the app.py file (TOLD ME TO INSTALL FLASK IN TERMINAL) [Day 04 Screenshot 1](Pictur1.png)
+* there's a problem in the app.py file (TOLD ME TO INSTALL FLASK IN TERMINAL) [Day 04 Screenshot 1](Picture1.png)
  
 * shows the next error:
- [Day 04 Screenshot 2](Pictur2.png)
+ [Day 04 Screenshot 2](Picture2.png)
 * this is what happened 
 * how do i open a new terminal in day04
 * this is what it showed: 
