@@ -1,6 +1,8 @@
 ## Unit Tests (`test_bragg.py`)
 
-Automated tests were added using `pytest` to verify the standalone crystallography calculation logic (`calculate_single_peak`) in `Bragg.py`.
+* Automated tests were added using `pytest` to verify the standalone crystallography calculation logic (`calculate_single_peak`) in `Bragg.py`.
+* Bragg.py and app.py were copied to day05 and added slight changes to make stand alone (although flask is still needed on PC). 
+* A new error message was added to bragg.py to avoid insertin all 0 indices.
 
 ### How to Run the Tests
 
