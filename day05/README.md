@@ -38,7 +38,6 @@
 * what about periodicity of lamda (n*lambda) this is physical
 * add it to the code
 * the test suddenly failed![Day 05 Screenshot](image3.jpg)
- 
 * explain each test in the code
 * write it for a readme file
 
